@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         setTitle("Birthdy cardddfaj;lfdas;kfj;alkdj;fkas;j");
         setTitle("Hello");
-
+        setTitle("Hello");
     }
 }
