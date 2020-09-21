@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         setTitle("Birthdy cardddfaj;lfdas;kfj;alkdj;fkas;j");
+        setTitle("Hello");
 
     }
 }
